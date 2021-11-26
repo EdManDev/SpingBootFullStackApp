@@ -2,8 +2,7 @@
 
 src/ main resources/ application.proprietes
 
-
-
+open Only the server with Intelij idea like: \GitHub\SpingBootFullStackApp\server
 
 ## All Routes
 
