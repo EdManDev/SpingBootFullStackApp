@@ -10,10 +10,10 @@ src/ main resources/ application.proprietes
 ### Student Admin
 
 ```
+GET      localhost:8080/student/getAll
 POST     localhost:8080/student/add
-POST     /api/users/login
-POST     /api/users/forgotpassword
-PUT      /api/users/resetpassword
+PUT      localhost:8080/student/add --- not yet
+DELETE   localhost:8080/student/add --- not yet
 ```
 
 ### Authentication Seller
