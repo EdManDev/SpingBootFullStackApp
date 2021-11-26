@@ -1,4 +1,4 @@
-# SpingBoot API App
+# SpingBoot FullStack App
 
 src/ main resources/ application.proprietes
 
